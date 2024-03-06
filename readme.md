@@ -14,5 +14,5 @@ GIT = un sistema de control de versiones que permitr gestionAR el codigo; genera
 - git push: subir los cambios al repo
 -git init: inicia git en el proyecto (una vez dentro del proyecto)
 -git add .:agrega los cambios a la copia local de git
--git comit
+-git commit -m  agregar un comentario a los cambios a subir 
 -git status: muestra los cambios que no se han guardado en GIT
